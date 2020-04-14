@@ -1,6 +1,9 @@
 {
   "packages": [
-    "packages/*"
+    "examples/*",
+    "packages/@bsk/*",
+    "packages/@rek/*",
+    "packages/@rek-dom/*"
   ],
   "version": "independent",
   "useWorkspaces": true,
