@@ -1,6 +1,5 @@
 {
 	"name": "frontend-kits",
-	"private": true,
 	"scripts": {
 		"clean": "lerna clean -y && rm -rf node_modules",
 		"clean:init": "npm run clean && npm i",

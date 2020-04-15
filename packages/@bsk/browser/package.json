@@ -47,5 +47,6 @@
   },
   "dependencies": {
     "@bsk/js": "^0.0.2"
-  }
+  },
+  "gitHead": "8c500cfed914f1a5eb03958a7e964b7d6b65424c"
 }
