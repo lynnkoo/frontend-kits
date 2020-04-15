@@ -1,6 +1,6 @@
 {
   "name": "@rek/redux",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simplify work flow for redux",
   "main": "lib/index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/lynnkoo/redux-async-kit#readme",
   "dependencies": {
-    "@bsk/js": "^0.0.1",
+    "@bsk/js": "^0.0.2",
     "immer": "^5.1.0",
     "lodash": "^4.17.15",
     "react": "^16.11.0",
