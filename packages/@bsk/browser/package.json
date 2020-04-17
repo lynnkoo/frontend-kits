@@ -1,6 +1,6 @@
 {
   "name": "@bsk/browser",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simplify work flow for redux",
   "main": "lib/index.js",
   "sideEffects": false,
@@ -46,7 +46,7 @@
     ]
   },
   "dependencies": {
-    "@bsk/js": "^0.0.2"
+    "@bsk/js": "^0.0.3"
   },
   "gitHead": "8c500cfed914f1a5eb03958a7e964b7d6b65424c"
 }

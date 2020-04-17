@@ -1,6 +1,6 @@
 {
   "name": "@rek-dom/basic",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "react dom basic kit",
   "main": "lib/index.js",
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/lynnkoo/react-dom-basic-kit#readme",
   "dependencies": {
-    "@bsk/browser": "^0.0.2",
+    "@bsk/browser": "^0.0.3",
     "browser-basic-kit": "^0.0.3",
     "classnames": "^2.2.6",
     "immer": "^5.3.6",
